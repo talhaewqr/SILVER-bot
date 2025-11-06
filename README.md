@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/TalhaRehan/SILVER-MD"><img title="Author" src="https://img.shields.io/badge/Author-Talha-blue.svg?style=for-the-badge&logo=github"></a>
   <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.0.0-green.svg?style=for-the-badge"></a>
-  <a href="https://wa.me/92XXXXXXXXXX?text=Hello%20Talha!"><img title="Support" src="https://img.shields.io/badge/Contact%20Talha-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://wa.me/923106367029text=Hello%20Talha!"><img title="Support" src="https://img.shields.io/badge/Contact%20Talha-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
 ---
