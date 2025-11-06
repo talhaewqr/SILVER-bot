@@ -1,0 +1,98 @@
+/* SILVER-MD Style (Knightbot-like layout) */
+
+* {
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: linear-gradient(120deg, #0b0c10, #1f2833);
+  color: #fff;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.hero {
+  padding: 100px 20px 60px;
+  background: linear-gradient(135deg, #1b1b2f, #162447);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+.title {
+  font-size: 3rem;
+  color: #66fcf1;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: #c5c6c7;
+  margin-top: 10px;
+}
+
+.buttons {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.btn {
+  padding: 12px 25px;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+  color: #fff;
+  transition: all 0.3s ease;
+}
+
+.btn.replit {
+  background: #f26207;
+}
+
+.btn.render {
+  background: #316fc5;
+}
+
+.btn.owner {
+  background: #25d366;
+}
+
+.btn:hover {
+  transform: scale(1.05);
+  opacity: 0.9;
+}
+
+.main {
+  padding: 40px 20px;
+}
+
+section {
+  margin-bottom: 50px;
+}
+
+h2 {
+  color: #66fcf1;
+  margin-bottom: 15px;
+}
+
+ul {
+  list-style: none;
+  line-height: 1.8;
+  font-size: 1rem;
+}
+
+.contact-btn {
+  background: #25d366;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+.footer {
+  background: #0b0c10;
+  padding: 20px;
+  font-size: 0.9rem;
+  color: #aaa;
+}
